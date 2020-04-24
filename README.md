@@ -20,4 +20,4 @@ Run the web app and hit localhost:8080/eventpage.htm in your favourite browser
 
 ## Authors
 
-Dhaval Suthar [contact](suthar.d@northeastern.edu)
+Dhaval Suthar [contact](suthar.d@husky.neu.edu)
